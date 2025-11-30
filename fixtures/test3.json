@@ -1,0 +1,16 @@
+{
+  "Infogempa": {
+    "gempa": {
+      "Tanggal": "15 Okt 2025",
+      "Jam": "13:40:12 WIB",
+      "Coordinates": "-8.00,110.32",
+      "Lintang": "8.00 LS",
+      "Bujur": "110.32 BT",
+      "Magnitude": "5.1",
+      "Kedalaman": "25 km",
+      "Wilayah": "Pusat gempa berada di laut 48 km Barat Daya KAB. GUNUNGKIDUL, DI YOGYAKARTA",
+      "Potensi": "Tidak berpotensi tsunami",
+      "Dirasakan": "III Bantul, II-III Sleman, II Yogyakarta"
+    }
+  }
+}

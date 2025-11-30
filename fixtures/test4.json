@@ -1,0 +1,16 @@
+{
+  "Infogempa": {
+    "gempa": {
+      "Tanggal": "31 Okt 2025",
+      "Jam": "15:40:12 WIB",
+      "Coordinates": "-6.30,106.80",
+      "Lintang": "6.30 LS",
+      "Bujur": "106.80 BT",
+      "Magnitude": "4.7",
+      "Kedalaman": "10 km",
+      "Wilayah": "Pusat gempa berada di darat 8 km Tenggara JAKARTA SELATAN",
+      "Potensi": "Tidak berpotensi tsunami",
+      "Dirasakan": "I-II Bogor"
+    }
+  }
+}

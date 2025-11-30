@@ -1,0 +1,16 @@
+{
+  "Infogempa": {
+    "gempa": {
+      "Tanggal": "5 Jan 2025",
+      "Jam": "07:35:18 WIB",
+      "Coordinates": "-6.91,107.65",
+      "Lintang": "6.91 LS",
+      "Bujur": "107.65 BT",
+      "Magnitude": "4.8",
+      "Kedalaman": "12 km",
+      "Wilayah": "Kab. Bandung, Jawa Barat",
+      "Potensi": "Tidak berpotensi tsunami",
+      "Dirasakan": "IV Bandung, III Cimahi, II Sukabumi"
+    }
+  }
+}

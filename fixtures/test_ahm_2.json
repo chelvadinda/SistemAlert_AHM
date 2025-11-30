@@ -1,0 +1,16 @@
+{
+  "Infogempa": {
+    "gempa": {
+      "Tanggal": "18 Mar 2025",
+      "Jam": "22:11:43 WIB",
+      "Coordinates": "-7.42,109.25",
+      "Lintang": "7.42 LS",
+      "Bujur": "109.25 BT",
+      "Magnitude": "3.7",
+      "Kedalaman": "8 km",
+      "Wilayah": "Banyumas, Jawa Tengah",
+      "Potensi": "Tidak berpotensi tsunami",
+      "Dirasakan": "III Banyumas, II Purwokerto"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Infogempa": {
+    "gempa": {
+      "Tanggal": "10 Okt 2025",
+      "Jam": "10:40:12 WIB",
+      "Coordinates": "-6.88,107.62",
+      "Lintang": "6.88 LS",
+      "Bujur": "107.62 BT",
+      "Magnitude": "4.7",
+      "Kedalaman": "10 km",
+      "Wilayah": "Pusat gempa berada di darat 15 km BaratDaya KAB-BANDUNG",
+      "Potensi": "Tidak berpotensi tsunami",
+      "Dirasakan": "III - IV Bandung, II-III Cimahi"
+    }
+  }
+}

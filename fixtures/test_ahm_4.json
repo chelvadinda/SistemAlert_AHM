@@ -1,0 +1,16 @@
+{
+  "Infogempa": {
+    "gempa": {
+      "Tanggal": "20 Jun 2025",
+      "Jam": "13:25:59 WIB",
+      "Coordinates": "-7.61,112.00",
+      "Lintang": "7.61 LS",
+      "Bujur": "112.00 BT",
+      "Magnitude": "4.5",
+      "Kedalaman": "10 km",
+      "Wilayah": "Kab. Malang, Jawa Timur",
+      "Potensi": "Tidak berpotensi tsunami",
+      "Dirasakan": "IV Malang, III Batu, II Pasuruan"
+    }
+  }
+}

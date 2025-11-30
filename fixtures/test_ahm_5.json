@@ -1,0 +1,16 @@
+{
+  "Infogempa": {
+    "gempa": {
+      "Tanggal": "1 Sep 2025",
+      "Jam": "04:48:21 WIB",
+      "Coordinates": "-8.10,112.90",
+      "Lintang": "8.10 LS",
+      "Bujur": "112.90 BT",
+      "Magnitude": "3.9",
+      "Kedalaman": "5 km",
+      "Wilayah": "Kab. Lumajang, Jawa Timur",
+      "Potensi": "Tidak berpotensi tsunami",
+      "Dirasakan": "III Lumajang, II Jember"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Infogempa": {
+    "gempa": {
+      "Tanggal": "14 Okt 2025",
+      "Jam": "17:19:02 WIB",
+      "Coordinates": "-6.55,108.25",
+      "Lintang": "6.55 LS",
+      "Bujur": "108.25 BT",
+      "Magnitude": "4.2",
+      "Kedalaman": "9 km",
+      "Wilayah": "Kab. Cirebon, Jawa Barat",
+      "Potensi": "Tidak berpotensi tsunami",
+      "Dirasakan": "III-IV Cirebon, III Indramayu, II Kuningan"
+    }
+  }
+}
