@@ -41,7 +41,7 @@ def cari_dealer_terdampak(koneksi, koordinat_gempa: str, radius_km: float = 100.
             for t in terdampak:
                 print(f"- {t['nama_dealer']} ({t['area']}) — {t['jarak_km']} km")
         else:
-            print(f"\n✅ Tidak ada dealer dalam radius {radius_km} km dari pusat gempa.")
+            print(f"\n Tidak ada dealer dalam radius {radius_km} km dari pusat gempa.")
 
         return terdampak
     except Exception as e:
